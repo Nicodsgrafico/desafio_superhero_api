@@ -26,6 +26,9 @@ body{
     justify-content: center;
     align-items: center;
 }
+.canvasjs-chart-tooltip{
+    position: relative!important;
+}
 
 .inputext{
     width: 240px;
